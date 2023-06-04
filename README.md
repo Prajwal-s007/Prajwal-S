@@ -1,4 +1,3 @@
-# Prajwal-S
 👋 Hi there! I'm Prajwal S, a Data Scientist and Machine Learning enthusiast.
 
 🔬 Passionate about extracting insights from data and building intelligent systems using state-of-the-art machine learning techniques.
